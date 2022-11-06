@@ -2,7 +2,7 @@ Package: net.angelxwind.mobileterminal-applesdk
 Version: 1.0
 Section: Tweaks
 Maintainer: Karen's Repo
-Depends: firmware (>5.0), mobilesubstrate
+Depends: firmware (>5.0), mobilesubstrate, coreutils
 Architecture: iphoneos-arm
 Filename: ./debs/net.angelxwind.mobileterminal-applesdk.deb
 Description: Terminal Emulator for iOS 5.0 through 10.3.5
