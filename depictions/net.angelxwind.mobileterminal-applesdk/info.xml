@@ -1,0 +1,15 @@
+<package>
+	<id>net.angelxwind.mobileterminal-applesdk</id>
+	<name>Full Package</name>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+			<maxiOS>10.3.5</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>coreutils</package>
+	</dependencies>
+	<shortDescription>Terninal Emulator for iOS 5.0 through 10.3.5</shortDescription>		
+</package>
